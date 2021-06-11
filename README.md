@@ -1,2 +1,2 @@
-# new
+# initaly repository
 my first repository
